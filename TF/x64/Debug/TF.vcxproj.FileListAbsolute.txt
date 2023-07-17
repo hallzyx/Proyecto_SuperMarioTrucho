@@ -1,0 +1,7 @@
+C:\Users\halli\source\repos\TF\TF\x64\Debug\TF.vcxproj.AssemblyReference.cache
+C:\Users\halli\source\repos\TF\TF\x64\Debug\TF.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\halli\source\repos\TF\TF\x64\Debug\TF.Core.resources
+C:\Users\halli\source\repos\TF\TF\x64\Debug\TF.vcxproj.GenerateResource.cache
+C:\Users\halli\source\repos\TF\TF\x64\Debug\TF.Lose.resources
+C:\Users\halli\source\repos\TF\TF\x64\Debug\TF.MenuPrincipal.resources
+C:\Users\halli\source\repos\TF\TF\x64\Debug\TF.Instrucciones.resources

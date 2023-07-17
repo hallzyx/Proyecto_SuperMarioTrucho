@@ -1,0 +1,12 @@
+﻿  Core.cpp
+C:\Users\halli\source\repos\TF\TF\entidad.h(46,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\halli\source\repos\TF\TF\controler.h(66,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\halli\source\repos\TF\TF\controler.h(67,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Instrucciones.cpp
+  MenuPrincipal.cpp
+C:\Users\halli\source\repos\TF\TF\entidad.h(46,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\halli\source\repos\TF\TF\controler.h(66,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\halli\source\repos\TF\TF\controler.h(67,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Generando código...
+  Core.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  TF.vcxproj -> C:\Users\halli\source\repos\TF\x64\Debug\TF.exe
